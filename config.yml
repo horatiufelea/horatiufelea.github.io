@@ -1,0 +1,26 @@
+baseURL: https://horatiufelea.com/
+languageCode: en-us
+title: Horațiu Felea
+theme: "PaperMod"
+params:
+    ShowShareButtons: false
+    ShowBreadCrumbs: true
+    defaultTheme: auto
+    profileMode:
+        enabled: true
+        title: "<Title>"
+        subtitle: "I am Horațiu, a creative photographer and marketing director blending visual storytelling with strategic branding in Romania."
+        imageUrl: "/img/profile.png"
+        imageTitle: "Horațiu Felea"
+        imageWidth: 300
+        imageHeight: 300
+        buttons:
+            # - name: About
+              # url: "/about"
+            - name: Contact
+              url: "mailto:dreamer@horatiufelea.com"
+    socialIcons:
+        - name: "LinkedIn"
+          url: "https://www.linkedin.com/in/horatiu-felea-a02067142/"
+        - name: "Facebook"
+          url: "https://www.facebook.com/toryceli/"
